@@ -6,6 +6,8 @@ The creative scope of experimental new media art is immense, with diverse concep
 
 Here is a sample selection of exemplar artworks, artists and design studios across this scope, primarily in the fields of computational, generative and AI art. Each section is ordered alphabetically.
 
+[Download this as PDF](https://github.com/dejangrba/art-and-technology-examples/raw/main/Dejan%20Grba%20-%202021%20-%20Art%20and%20Technology%20Examples.pdf).
+
 ## Individual Works
 Aaron Koblin - 2005-2009 - Flight Patterns; [http://users.design.ucla.edu/~akoblin/work/faa/](http://users.design.ucla.edu/~akoblin/work/faa/)
 
