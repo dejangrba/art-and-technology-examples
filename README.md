@@ -2,7 +2,7 @@
 ### Dejan Grba
 # Art and Technology Examples
 ## For Lasalle-NAFA University of the Arts, Singapore
-The creative scope of experimental new media art is immense, with diverse conceptual approaches and aesthetic identities. For example, TeamLab is a high-end commercial interactive projection design studio which occasionally ventures into non-commissioned art projects.
+The creative scope of experimental new media art is immense, with diverse conceptual approaches and aesthetic identities.
 
 Here is a sample selection of exemplar artworks, artists and design studios across this scope, primarily in the fields of computational, generative and AI art. Each section is ordered alphabetically.
 
@@ -113,8 +113,6 @@ Sebastian Schmieg; [http://sebastianschmieg.com/](http://sebastianschmieg.com/)
 Shinichi Maruyama; [https://www.shinichimaruyama.com/](https://www.shinichimaruyama.com/)
 
 Shinseungback Kimyonghun; [http://ssbkyh.com/index.html](http://ssbkyh.com/index.html)
-
-Sougwen Chung; [https://sougwen.com/](https://sougwen.com/)
 
 Sougwen Chung; [https://sougwen.com/](https://sougwen.com/)
 
