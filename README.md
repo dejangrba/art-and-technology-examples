@@ -1,7 +1,7 @@
 
 ### Dejan Grba
 # Art and Technology Examples
-## For Lasalle-NAFA University of the Arts, Singapore
+## For the University of the Arts, Singapore
 The creative scope of experimental new media art is immense, with diverse conceptual approaches and aesthetic identities.
 
 Here is a sample selection of exemplar artworks, artists and design studios across this scope, primarily in the fields of computational, generative and AI art. Each section is ordered alphabetically.
