@@ -124,7 +124,7 @@ Tim Knowles; [http://www.timknowles.co.uk/Home/tabid/262/Default.aspx](http://ww
 
 Weili Shi; [https://shi-weili.com/works](https://shi-weili.com/works)
 
-# Interactive and Installation Design Studios/Collectives
+# Studios/Collectives
 Andreas Nicolas Fischer; [http://anf.nu/](http://anf.nu/)
 
 Blue Flower Studio; [http://federicomuelas.com/wordpress_studio/](http://federicomuelas.com/wordpress_studio/)
